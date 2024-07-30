@@ -20,12 +20,7 @@ O `script-iac2.sh` é um script de automação de infraestrutura como código (I
     cd script-iac2.sh
     ```
 
-2. Configure as variáveis de ambiente necessárias:
-    ```bash
-    export VARIAVEL_EXEMPLO=valor
-    ```
-
-3. Execute o script:
+2. Execute o script:
     ```bash
     ./script-iac2.sh
     ```
